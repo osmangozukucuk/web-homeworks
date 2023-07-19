@@ -1,0 +1,209 @@
+.duzen{
+    display: grid;
+    grid-template-columns: 375px auto 750px;
+    margin:  0 auto;
+}
+.sag-sidebar{
+    margin-left: 60px;
+    position: fixed;
+    height: 680px;
+    width: 400px;
+    padding-left: 10px;
+    margin-top: 90px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: #0f141a;
+    display: flex;
+    flex-direction: column;  
+     background-color: rgb(245, 245, 245);
+}
+.sol-sidebar{
+    position: fixed;
+    font-size: 18px;
+    margin-left: 155px;
+    color: #0f141a;
+}
+.A1{  font-weight: 500;
+    color: black;
+    text-decoration: none
+    }
+.A1:hover{
+    background-color: #3979c962;
+    color: rgba(0, 128, 128, 0.705);
+    border-radius: 15px;
+}
+.tweet{
+    display: flex;
+    padding: 35px;
+    margin: 10px;
+    border-style: solid;
+    border-width: 0.6px;
+    border-color: rgb(230, 230, 230);
+    margin: 0px;
+}
+.Profil{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.tweetbas{
+    display: flex;
+}
+.isim{
+    display: flex;
+    font-size: 15px;
+    font-weight: 700;
+}
+img{
+    border-radius: 15px;
+}
+#a{
+  font-size: x-large;
+    font-weight: 700;
+    margin-left: 5px;
+}
+
+
+.sol-sidebar-container{
+    background-color: white;
+    border-radius: 12px;
+}
+
+  .icerik{
+    height: 25px;
+    margin-right: 15px;
+    margin-top: 20px;
+    padding: 1px;
+  }
+  .margin{
+    margin-top: 25px;
+    margin-left: 50px;
+  }
+  p {
+    font-size: 12px;
+    font-weight: 300;
+  }
+  #resim{
+    width: 700px;
+  height: 300px;
+  }
+  .hashtag{
+    margin-left: 8px;
+    color: #5a5a5aee;
+  }
+  .neler-oluyor {
+    background-color: #fbfbfb;
+padding: 1px;
+border-radius: 1px;
+width: 858px;
+margin-left: 0px;
+border-style: solid;
+border-width: 1px;
+border-color:  rgb(230, 230, 230);
+
+  }
+  
+  .tweet-input {
+    width: 97%;
+    height: 80px;
+    resize: none;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-size: xx-large;
+  }
+  
+  .tweet-button {
+    background-color: #1da1f2;
+    color: #fff;
+    border: none;
+    border-radius: 9999px;
+    padding: 8px 16px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 425px;
+    margin-bottom: 5px;
+  }
+  
+  .tweet-button:hover {
+    background-color: #0c87c7;
+  }
+  .butonlogo{
+    width: 30px;
+    margin-right: 200px;
+  }
+  .butonlogo2{
+    width: 30px;
+    margin-right: 15px;
+  }
+  .twitalt{
+    width: 18px;
+    margin-left: 90px;
+  }
+ 
+  .A2{
+    text-align: left;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  .nokta{
+    width: 20px;
+    height: 20px;
+    display: flex;
+  }
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .tweetbuton {
+    
+    background-color: #1da1f2;
+    color: #fff;
+    border: none;
+    border-radius: 35px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 160px;
+  }
+  .gundemara{
+    width: 400px;
+    font-size: 20px;
+border-radius: 20px;
+margin-left: 60px;
+margin-top: 15px;
+position: fixed;
+height: 40px;
+background-color: rgb(245, 245, 245);
+  }
+  .arama{
+    width: 30px;
+    height: 30px;
+    
+  }
+  
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 16px
+}
+.mavitık {
+  width: 20px;
+margin-top: -1px;
+margin-left: 5px;
+}
+#placeholderimg{
+  width: 30px;
+  position: fixed;
+  margin-left: 80px;
+  margin-top: 23px;
+}
